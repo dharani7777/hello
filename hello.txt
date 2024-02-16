@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hi
 How are you?
 is it good!
+=======
+ 
+>>>>>>> ba22cb9 (Initial commit: Added hello.txt)
